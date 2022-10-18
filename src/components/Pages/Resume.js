@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from "styled-components";
 import "../css/resume.css";
-import resumePDF from "../resume/Kalvin Son Resume_Cananda.pdf";
+import resumePDF from "../resume/Kalvin Son Resume_Canada+no.pdf";
 
 const Outercontainer = styled.div`
     padding: 40px;
