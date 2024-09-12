@@ -1,11 +1,11 @@
 import React from 'react';
 import styled from "styled-components";
 import "../css/resume.css";
-import resumePDF from "../resume/Kalvin Son Resume_Canada+no.pdf";
+import resumePDF from "../resume/Kalvin Son Resume_Hong Kong.pdf";
 
 const Outercontainer = styled.div`
     padding: 40px;
-` ; 
+` ;
 const Innercontainer = styled.div`
     background-color: #cedfe3;
 `;
@@ -13,7 +13,7 @@ const Innercontainer = styled.div`
 function Resume() {
 
 
-    return(
+    return (
         <Outercontainer>
             <Innercontainer className='container-fiuld'>
                 <div className="row">
