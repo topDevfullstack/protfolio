@@ -1,0 +1,106 @@
+Kalvin Son
+
+
+kalvinson961010@gmail.com
+12136503336
+East Point City Tseung Kwan O, Sai Kung District, Hong Kong
+https://github.com/TopDevSun0
+
+
+
+------------------------
+Senior full stack developer
+
+
+------------------------
+Organized, collaborative, and highly skilled senior full stack developer with 10+ years of professional experience in dynamic and deadline-driven work environments. Self-motivated and self-taught professional who likes to solve problems. My  repositories  includes programming languages and tools such as ReactJS, Angular, VueJS, NodeJS, Laravel, CI, Ruby on rails,  MongoDB, MySQL, PostgreSQL, MSSQL, Gulp, SASS, LESS, theming with Material UI and Bootstrap, Apache and Nginx server configuration and more related to the Blockchain industry such as Solidity, Ethereum, Smart Contract, DeFi, NFT marketplace, Rust, Solana...
+
+
+Skills
+------------------------
+-MERN
+-MEAN
+-MEVN
+-PHP
+-Laravel
+-CI
+-Python
+-Rust
+-Ruby
+-MySQL
+-MongoDB
+-Next
+-Nest
+
+
+
+Languages
+------------------------
+-English- (100/100)
+
+
+
+Interests
+------------------------
+-Swimming
+-Tennis
+-Camping
+
+
+
+Work Experience
+------------------------
+Full stack developer
+Gohomly Inc
+11/2015 - 09/2020
+GoHomly is a new modern company with the goal of helping all types of real estate agents automate, modernize and fairly compete for that listing presentation. It offers a complete suite of services specifically designed to help new experienced listing agents modernize and simplify the home showing and selling process.
+Achievements/Tasks
+- Made a Content Management System to build magazine for properties 
+- Implemented multi-core system in Node.js backend just using Cluster 
+- Created a theme customizing bootstrap v4 using scss in React.js frontend 
+- Integrated Narrpr and other services to get the details and statistical reports for sales history 
+- Managed VPS server and installed CI/CD 
+- Installed Apache Reverse Proxy in order to launch a backend with subdomain 
+
+
+
+Full stack developer
+XYZ Solutions, San Francisco, CA
+11/2020 - 07/2022
+190 Lombard St, San Francisco, CA 94111, United States
+ Technically speaking, XYZ is a creative production agency that excels in 3D rendering, photography, retouching, video, motion graphics, banners, and everything visual. But the most important thing we do is partner with our clients to tell captivating stories. 
+Achievements/Tasks
+-  Assisted in designing and developing backend services using Python and Flask.    
+-  Participated in the development and deployment of RESTful APIs, leading to a 20% decrease in response times.    
+-  Wrote unit tests and documentation to ensure code quality and project standards.    
+-  Engaged in agile development processes, including daily stand-ups and sprint planning.    
+
+
+
+Full stack developer
+Toptal
+10/2022 - 06/2024
+Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies hire Toptal freelancers for their most important projects.
+Achievements/Tasks
+- Building stable and maintainable codebases using ReactJS and Angular 
+- E-commerce development with Shopify, customizing preexisting themes 
+- VPS configuration and optimization (Apache and Nginx) 
+
+
+
+
+
+
+Education
+------------------------
+Computer science and programming
+University of British Columbia
+09/2010 - 09/2015
+Vancouver, BC V6T 1Z4, Canada
+Courses
+- Bachelor's degree in Computer Science 
+
+
+
+
+
